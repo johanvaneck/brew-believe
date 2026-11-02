@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brewbelieve.v3ck.com/sitemap.xml
